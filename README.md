@@ -5,7 +5,7 @@ Olá! Sou Marlon, um desenvolvedor FullStack especializado em **JavaScript**, co
 ## 🚀 Tecnologias e Ferramentas
 
 - **Frontend**: React, Next.js, Tailwind CSS, Styled Components, Expo, jQuery, HTML, CSS
-- **Backend**: Node.js, NestJS, Express, PHP (Symfony), C#, AWS Lambda
+- **Backend**: Node.js, NestJS, Express, PHP (Symfony), AWS Lambda, Python
 - **DevOps**: AWS (Amazon Web Services)
 - **Banco de Dados**: PostgreSQL, MySQL
 - **Outros**: Java, .NET, Terraform
@@ -15,7 +15,7 @@ Sempre busco estar atualizado com as melhores práticas e tendências do mercado
 ## 🎓 Formação
 
 - **Análise e Desenvolvimento de Sistemas** - SENAC RS
-- **Bootcamp FullStack (Turma 11)** - Rocketseat
+- **Bootcamp FullStack (Turma 41)** - Rocketseat
 - **Fundamentos de IA para Devs** - Digital Innovation One (DIO)
 
 ## 📚 Curiosidade & Aprendizado
