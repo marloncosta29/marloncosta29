@@ -1,6 +1,6 @@
 # 👨‍💻 Marlon | Desenvolvedor FullStack
 
-Olá! Sou Marlon, um desenvolvedor FullStack especializado em **JavaScript**, com foco em **React**, **React Native** e **Node.js**. Tenho mais de 12 anos de experiência criando aplicações web e mobile robustas, acessíveis e escaláveis.
+Olá! Sou Marlon, um desenvolvedor FullStack especializado em **JavaScript**, com foco em **React**, **React Native** e **Node.js**.
 
 ## 🚀 Tecnologias e Ferramentas
 
@@ -24,7 +24,7 @@ Tenho grande interesse em **Inteligência Artificial** e sempre busco aprender s
 
 ## 🎮 Paixões Pessoais
 
-Sou um gamer de longa data, com uma queda por jogos da **Microsoft**, especialmente a franquia **Gears of War**, e sou um jogador de **Destiny 2**. Além disso, curto bastante **animes** e sou fã de **heavy metal**. Acredito que um equilíbrio entre trabalho e hobbies é essencial para manter a mente criativa e focada!
+Sou um gamer de longa data, com uma queda por jogos da **Microsoft**, especialmente a franquia **Gears of War**. Além disso, curto bastante **animes** e sou fã de **heavy metal**. Acredito que um equilíbrio entre trabalho e hobbies é essencial para manter a mente criativa e focada!
 
 ## 🔗 Vamos nos conectar!
 
